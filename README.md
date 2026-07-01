@@ -123,24 +123,6 @@ Driving student cloud adoption — Amazon S3 deep-dive content, applying for AWS
 
 ---
 
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=myakalavignesh01&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/myakalavignesh01/myakalavignesh01/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<sub>⚙️ This animates automatically once the Snake GitHub Action (setup below) runs — it eats your contribution graph like Snake, live.</sub>
-
----
-
 <div align="center">
 
 ### 💭 *"Responsible AI isn't a feature. It's infrastructure."*
